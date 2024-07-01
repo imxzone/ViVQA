@@ -1,6 +1,3 @@
 # ViVQA
 
-Hello world
-
-tôi test cái này
-hehehe
+Đạt chỉ tôi làm github

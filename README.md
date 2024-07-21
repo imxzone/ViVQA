@@ -1,7 +1,9 @@
-# ViVQA
+<h1 align="center"> ViVQA - Vietnamese Visual Question Answering </h1>
 
-Đạt chỉ tôi làm github
+## Dataset ViVQA
+### 1. ViVQA - 
+The ViVQA dataset consists of 10,328 images and 15,000 pairs of questions and answers in Vietnamese corresponding to the content of the images.
 
-Tôi là Phan Lộc
+### 2. Open ViVQA
 
-tôi là thành viên 9.5AI
+### 3. 9.5AI ViVQA
